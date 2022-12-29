@@ -1,0 +1,15 @@
+Write a ajava program which has two packages named square and cube, a class which imports square and cube generates a 10 random numbers between 1 to 100
+and calculates square and cube of the numbers generated, class also inherits an abstract class which has data memeber, number and a 
+method random.
+
+
+//LAB 5:
+1. Create an enum called size which indicates the size of pizza: regular,medium,large. cREATE AN CLASS CALLED TEST WHICH HAS an 
+instance of size,constructor and a method called OrderPizza which has a switch statement having case labels of enum(size).
+A driver class for mainmethod creates an instance of test and orderes pizza.
+
+2. Develop a rock,paper and scissor game in java:
+   RULE1- Rock beats scissor.
+   RULE2- Scissor cuts paper.
+   RULE2- Paper beats rock.
+   
