@@ -102,7 +102,7 @@ class Fish extends Animal implements Pet {
 
 }
 
-public class programming_exersice_4 {
+public class programming_exercise_4 {
     public static void main(String[] args) {
         Fish d = new Fish();
         Cat c = new Cat("Fluffy");

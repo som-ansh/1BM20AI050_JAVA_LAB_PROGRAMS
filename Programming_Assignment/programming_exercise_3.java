@@ -40,7 +40,7 @@ class B extends Marks {
 
 }
 
-public class programming_exersice_3 {
+public class programming_exercise_3 {
     public static void main(String[] args) {
         A a = new A(58, 96, 85);
         System.out.print("Percentage of student A: ");

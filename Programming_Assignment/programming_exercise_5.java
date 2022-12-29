@@ -114,7 +114,7 @@ class Glome extends Sphere {
     }
 }
 
-public class programming_exersice_5 {
+public class programming_exercise_5 {
     public static void main(String[] args) {
 
         Circle circle = new Circle(8.0, "Circle");

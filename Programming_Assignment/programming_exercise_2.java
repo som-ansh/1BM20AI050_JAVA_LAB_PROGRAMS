@@ -143,7 +143,7 @@ class Clock {
     }
 }
 
-public class programming_exersice_2 {
+public class programming_exercise_2 {
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);
